@@ -12,9 +12,7 @@
 <p align="left"> <a href="https://twitter.com/azmatuk05219" target="blank"><img src="https://img.shields.io/twitter/follow/azmatuk05219?logo=twitter&style=for-the-badge" alt="azmatuk05219" /></a> </p>
 
 
-
-<img alt="coding" width="390" align="right" src="https://media4.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e4785189ya5jg9svylajm0flkzxdndjukw3ckdl69zy&rid=giphy.gif&ct=g" alt="">
-
+<img alt="coding" width="390" height = "250" align="right" src="https://user-images.githubusercontent.com/59527753/96024346-39dfe580-0e71-11eb-8a8a-cbaf92f7659e.gif" alt="">
 
 
 
