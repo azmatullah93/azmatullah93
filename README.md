@@ -1,3 +1,6 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azmatullah93&label=Profile%20views&color=0e75b6&style=flat" alt="azmatullah93" /> </p>
+
+
 ![MasterHead](https://s3.amazonaws.com/usdphosting.accusoft/wp-content/uploads/2016/09/THL_Node_js_BL4_Part-4_banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Azmat Ullah</h1>
@@ -5,9 +8,8 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azmatullah93&label=Profile%20views&color=0e75b6&style=flat" alt="azmatullah93" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azmatullah93" alt="azmatullah93" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azmatullah93&theme=radical" alt="azmatullah93" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/azmatuk05219" target="blank"><img src="https://img.shields.io/twitter/follow/azmatuk05219?logo=twitter&style=for-the-badge" alt="azmatuk05219" /></a> </p>
 
@@ -41,9 +43,9 @@
 
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmatullah93&langs_count=8" alt="azmatullah93" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmatullah93&langs_count=8&theme=radical" alt="azmatullah93" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=azmatullah93&show_icons=true&theme=radical" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=azmatullah93&" alt="azmatullah93" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=azmatullah93&theme=radical" alt="azmatullah93" /></p>
 
