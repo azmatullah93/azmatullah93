@@ -12,8 +12,8 @@
 
 
 
-<img alt="coding" width="500" height = "250" align="right" src="https://camo.githubusercontent.com/ee791c255cf59c4b22cf1a3fe7854d5171b49dea5ff329074ba89d7a110d420d/68747470733a2f2f66696c65732e726561646d652e696f2f386331313931312d73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966" alt="">
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmatullah93&langs_count=8&theme=radical" alt="azmatullah93" /></p>
 
 
 
@@ -39,8 +39,4 @@
 
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmatullah93&langs_count=8&theme=radical" alt="azmatullah93" /></p>
-
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=azmatullah93&theme=radical" alt="azmatullah93" /></p>
 
