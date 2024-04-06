@@ -19,13 +19,11 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Talks about **NodeJS, MongoDB, Readux, React, Javascript, Tailwind, CSS, HTML**
+- 💬 Talks about **NodeJS, MongoDB, React, Javascript, Tailwind**
 
 - 📫 Reach me at **azmat.nilsa110@gmail.com**
 
-- ⚡ Fun fact **Coding can “power up” my brain.**
-
-<h3 align="left">Connect me at:</h3>
+<h3 align="left">Connect with me at:</h3>
 <p align="left">
 <a href="https://dev.to/azmatullah93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="azmatullah93" height="30" width="40" /></a>
 <a href="https://twitter.com/azmatuk05219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azmatuk05219" height="30" width="40" /></a>
