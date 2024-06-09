@@ -1,7 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azmatullah93&label=Profile%20views&color=0e75b6&style=flat" alt="azmatullah93" /> </p>
 
 
-![MasterHead](https://s3.amazonaws.com/usdphosting.accusoft/wp-content/uploads/2016/09/THL_Node_js_BL4_Part-4_banner.jpg)
 
 
 
