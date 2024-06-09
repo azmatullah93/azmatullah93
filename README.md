@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Hello there, 👋, I'm Azmat Ullah</h1>
+<h1 align="center">Hello there 👋, I'm Azmat Ullah</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan.</h3>
 
 
